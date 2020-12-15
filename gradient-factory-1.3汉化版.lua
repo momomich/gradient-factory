@@ -1,5 +1,6 @@
 ﻿--[[
-Copyright (c) 2009 Muhammad Lukman Nasaruddin (ai-chan) ~ Traduzido e Actualizado por Leinad4Mind ~
+Copyright (c) 2009 Muhammad Lukman Nasaruddin (ai-chan) ~ Traduzido e Actualizado por Leinad4Mind 
+~ Translated by Momomich ~
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
@@ -15,7 +16,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Automation script: Criar Gradiente/制作色彩梯度
+Automation script: Color Gradient/制作色彩梯度
 ]]
 
 script_name = "制作色彩梯度"
